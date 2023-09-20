@@ -20,7 +20,7 @@ verbose = True
 #=== Setup input/output directories
 root_dir = os.getcwd()
 default_input_dir = os.path.join(root_dir, "sample_data/")
-default_output_dir = os.path.join(root_dir, "output/")
+default_output_dir = os.path.join(root_dir, "output/random_search_agent/")
 default_program_dir = os.path.join(root_dir, "ingestion_program/")
 default_submission_dir = os.path.join(root_dir, "sample_code_submission/")
 
@@ -301,6 +301,9 @@ if __name__ == "__main__":
         meta_features_dir = os.path.join(input_dir, 'dataset_meta_features')
         algorithms_meta_features_dir = os.path.join(input_dir, 'algorithms_meta_features')
         output_from_ingestion_program_dir = output_dir # Output from the ingestion_program
+
+    
+    
     else:
         input_dir = os.path.abspath(argv[1])
         output_dir = os.path.abspath(argv[2])
