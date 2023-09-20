@@ -1,0 +1,2817 @@
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+78.14999999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+77.93749999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+77.77499999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+77.68583333333332% of the budget unused
+Using SH
+Using Pre-Solvers
+70.22416666666665% of the budget unused
+Using SH
+Using Pre-Solvers
+66.15249999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+65.78499999999998% of the budget unused
+Using SH
+Using Pre-Solvers
+65.49583333333332% of the budget unused
+Using SH
+Using Pre-Solvers
+65.32583333333332% of the budget unused
+Using SH
+Using Pre-Solvers
+45.75916666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+32.04916666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+31.303333333333327% of the budget unused
+Using SH
+Using Pre-Solvers
+30.77916666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+30.393333333333327% of the budget unused
+Using SH
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+95.74833333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+95.69083333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+95.21749999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+95.19416666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+94.13999999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+89.36083333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+89.24916666666667% of the budget unused
+Using SH
+Using Pre-Solvers
+88.275% of the budget unused
+Using SH
+Using Pre-Solvers
+86.68916666666667% of the budget unused
+Using SH
+Using Pre-Solvers
+82.2425% of the budget unused
+Using SH
+Using Pre-Solvers
+72.05333333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+71.82% of the budget unused
+Using SH
+Using Pre-Solvers
+69.81333333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+66.37416666666667% of the budget unused
+Using SH
+Using Pre-Solvers
+52.682500000000005% of the budget unused
+Using SH
+Using Pre-Solvers
+33.106666666666676% of the budget unused
+Using SH
+Using Pre-Solvers
+32.569166666666675% of the budget unused
+Using SH
+Using Pre-Solvers
+28.400000000000006% of the budget unused
+Using SH
+Using Pre-Solvers
+20.99583333333334% of the budget unused
+Using SH
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+96.26666666666667% of the budget unused
+Using SH
+Using Pre-Solvers
+96.03416666666668% of the budget unused
+Using SH
+Using Pre-Solvers
+95.93166666666667% of the budget unused
+Using SH
+Using Pre-Solvers
+95.82500000000002% of the budget unused
+Using SH
+Using Pre-Solvers
+95.75750000000001% of the budget unused
+Using SH
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+99.4625% of the budget unused
+Using SH
+Using Pre-Solvers
+99.44749999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+99.24833333333332% of the budget unused
+Using SH
+Using Pre-Solvers
+99.21999999999998% of the budget unused
+Using SH
+Using Pre-Solvers
+98.83083333333332% of the budget unused
+Using SH
+Using Pre-Solvers
+98.56583333333332% of the budget unused
+Using SH
+Using Pre-Solvers
+98.55833333333332% of the budget unused
+Using SH
+Using Pre-Solvers
+98.28583333333331% of the budget unused
+Using SH
+Using Pre-Solvers
+98.26999999999998% of the budget unused
+Using SH
+Using Pre-Solvers
+97.32916666666665% of the budget unused
+Using SH
+Using Pre-Solvers
+96.86416666666665% of the budget unused
+Using SH
+Using Pre-Solvers
+96.84916666666665% of the budget unused
+Using SH
+Using Pre-Solvers
+96.39749999999998% of the budget unused
+Using SH
+Using Pre-Solvers
+96.36666666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+93.76166666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+92.75666666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+92.72583333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+91.94% of the budget unused
+Using SH
+Using Pre-Solvers
+89.77083333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+82.43916666666667% of the budget unused
+Using SH
+Using Pre-Solvers
+79.9825% of the budget unused
+Using SH
+Using Pre-Solvers
+79.94583333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+78.91416666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+75.8475% of the budget unused
+Using SH
+Using Pre-Solvers
+65.89% of the budget unused
+Using SH
+Using Pre-Solvers
+62.91% of the budget unused
+Using SH
+Using Pre-Solvers
+62.87333333333332% of the budget unused
+Using SH
+Using Pre-Solvers
+61.841666666666654% of the budget unused
+Using SH
+Using Pre-Solvers
+58.775% of the budget unused
+Using SH
+Using Pre-Solvers
+48.817499999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+45.83749999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+45.80083333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+44.76916666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+41.70249999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+31.744999999999987% of the budget unused
+Using SH
+Using Pre-Solvers
+28.764999999999993% of the budget unused
+Using SH
+Using Pre-Solvers
+28.728333333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+27.696666666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+24.629999999999992% of the budget unused
+Using SH
+Using Pre-Solvers
+14.67249999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+11.69249999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+11.655833333333325% of the budget unused
+Using SH
+Using Pre-Solvers
+10.624166666666657% of the budget unused
+Using SH
+Using Pre-Solvers
+7.557499999999991% of the budget unused
+Using SH
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+25.187500000000007% of the budget unused
+Using SH
+Using Pre-Solvers
+24.980000000000004% of the budget unused
+Using SH
+Using Pre-Solvers
+22.920000000000005% of the budget unused
+Using SH
+Using Pre-Solvers
+22.37333333333334% of the budget unused
+Using SH
+Using Pre-Solvers
+20.54833333333334% of the budget unused
+Using SH
+Using Pre-Solvers
+13.744166666666672% of the budget unused
+Using SH
+Using Pre-Solvers
+13.247500000000004% of the budget unused
+Using SH
+Using Pre-Solvers
+8.852500000000004% of the budget unused
+Using SH
+Using Pre-Solvers
+3.7591666666666703% of the budget unused
+Using SH
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+97.20416666666665% of the budget unused
+Using SH
+Using Pre-Solvers
+97.18416666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+97.08999999999997% of the budget unused
+Using SH
+Using Pre-Solvers
+97.07333333333331% of the budget unused
+Using SH
+Using Pre-Solvers
+96.98916666666665% of the budget unused
+Using SH
+Using Pre-Solvers
+96.95166666666663% of the budget unused
+Using SH
+Using Pre-Solvers
+96.92416666666664% of the budget unused
+Using SH
+Using Pre-Solvers
+96.78916666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+96.77249999999998% of the budget unused
+Using SH
+Using Pre-Solvers
+96.6108333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+96.5458333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+96.49749999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+96.26999999999998% of the budget unused
+Using SH
+Using Pre-Solvers
+96.23666666666664% of the budget unused
+Using SH
+Using Pre-Solvers
+95.89166666666664% of the budget unused
+Using SH
+Using Pre-Solvers
+95.6058333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+95.51333333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+95.11499999999998% of the budget unused
+Using SH
+Using Pre-Solvers
+95.0458333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+93.96166666666664% of the budget unused
+Using SH
+Using Pre-Solvers
+93.09416666666664% of the budget unused
+Using SH
+Using Pre-Solvers
+92.98666666666664% of the budget unused
+Using SH
+Using Pre-Solvers
+92.4958333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+92.4083333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+90.74666666666663% of the budget unused
+Using SH
+Using Pre-Solvers
+89.74999999999996% of the budget unused
+Using SH
+Using Pre-Solvers
+89.64249999999997% of the budget unused
+Using SH
+Using Pre-Solvers
+89.15166666666661% of the budget unused
+Using SH
+Using Pre-Solvers
+89.06416666666664% of the budget unused
+Using SH
+Using Pre-Solvers
+87.40249999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+86.40583333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+86.29833333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+85.80749999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+85.71999999999996% of the budget unused
+Using SH
+Using Pre-Solvers
+84.05833333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+83.06166666666661% of the budget unused
+Using SH
+Using Pre-Solvers
+82.95416666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+82.46333333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+82.37583333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+80.71416666666661% of the budget unused
+Using SH
+Using Pre-Solvers
+79.71749999999994% of the budget unused
+Using SH
+Using Pre-Solvers
+79.60999999999996% of the budget unused
+Using SH
+Using Pre-Solvers
+79.11916666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+79.03166666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+77.36999999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+76.37333333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+76.26583333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+75.77499999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+75.68749999999996% of the budget unused
+Using SH
+Using Pre-Solvers
+74.02583333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+73.02916666666661% of the budget unused
+Using SH
+Using Pre-Solvers
+72.92166666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+72.43083333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+72.34333333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+70.68166666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+69.68499999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+69.57749999999996% of the budget unused
+Using SH
+Using Pre-Solvers
+69.08666666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+68.99916666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+67.33749999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+66.34083333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+66.23333333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+65.74249999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+65.65499999999996% of the budget unused
+Using SH
+Using Pre-Solvers
+63.99333333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+62.99666666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+62.88916666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+62.398333333333284% of the budget unused
+Using SH
+Using Pre-Solvers
+62.310833333333285% of the budget unused
+Using SH
+Using Pre-Solvers
+60.649166666666616% of the budget unused
+Using SH
+Using Pre-Solvers
+59.652499999999954% of the budget unused
+Using SH
+Using Pre-Solvers
+59.54499999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+59.05416666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+58.96666666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+57.30499999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+56.30833333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+56.200833333333286% of the budget unused
+Using SH
+Using Pre-Solvers
+55.70999999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+55.62249999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+53.960833333333284% of the budget unused
+Using SH
+Using Pre-Solvers
+52.964166666666614% of the budget unused
+Using SH
+Using Pre-Solvers
+52.85666666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+52.365833333333285% of the budget unused
+Using SH
+Using Pre-Solvers
+52.27833333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+50.61666666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+49.61999999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+49.51249999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+49.02166666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+48.93416666666663% of the budget unused
+Using SH
+Using Pre-Solvers
+47.27249999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+46.27583333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+46.16833333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+45.67749999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+45.58999999999996% of the budget unused
+Using SH
+Using Pre-Solvers
+43.928333333333285% of the budget unused
+Using SH
+Using Pre-Solvers
+42.931666666666615% of the budget unused
+Using SH
+Using Pre-Solvers
+42.82416666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+42.333333333333286% of the budget unused
+Using SH
+Using Pre-Solvers
+42.24583333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+40.58416666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+39.58749999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+39.479999999999954% of the budget unused
+Using SH
+Using Pre-Solvers
+38.98916666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+38.90166666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+37.23999999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+36.24333333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+36.13583333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+35.64499999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+35.557499999999955% of the budget unused
+Using SH
+Using Pre-Solvers
+33.895833333333286% of the budget unused
+Using SH
+Using Pre-Solvers
+32.899166666666616% of the budget unused
+Using SH
+Using Pre-Solvers
+32.79166666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+32.30083333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+32.21333333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+30.55166666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+29.554999999999957% of the budget unused
+Using SH
+Using Pre-Solvers
+29.447499999999952% of the budget unused
+Using SH
+Using Pre-Solvers
+28.956666666666617% of the budget unused
+Using SH
+Using Pre-Solvers
+28.86916666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+27.207499999999953% of the budget unused
+Using SH
+Using Pre-Solvers
+26.210833333333287% of the budget unused
+Using SH
+Using Pre-Solvers
+26.10333333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+25.612499999999955% of the budget unused
+Using SH
+Using Pre-Solvers
+25.524999999999956% of the budget unused
+Using SH
+Using Pre-Solvers
+23.863333333333287% of the budget unused
+Using SH
+Using Pre-Solvers
+22.86666666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+22.759166666666623% of the budget unused
+Using SH
+Using Pre-Solvers
+22.26833333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+22.180833333333286% of the budget unused
+Using SH
+Using Pre-Solvers
+20.51916666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+19.522499999999955% of the budget unused
+Using SH
+Using Pre-Solvers
+19.414999999999953% of the budget unused
+Using SH
+Using Pre-Solvers
+18.924166666666622% of the budget unused
+Using SH
+Using Pre-Solvers
+18.83666666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+17.174999999999955% of the budget unused
+Using SH
+Using Pre-Solvers
+16.17833333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+16.070833333333287% of the budget unused
+Using SH
+Using Pre-Solvers
+15.579999999999954% of the budget unused
+Using SH
+Using Pre-Solvers
+15.492499999999955% of the budget unused
+Using SH
+Using Pre-Solvers
+13.830833333333288% of the budget unused
+Using SH
+Using Pre-Solvers
+12.83416666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+12.72666666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+12.23583333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+12.148333333333287% of the budget unused
+Using SH
+Using Pre-Solvers
+10.486666666666622% of the budget unused
+Using SH
+Using Pre-Solvers
+9.489999999999954% of the budget unused
+Using SH
+Using Pre-Solvers
+9.382499999999954% of the budget unused
+Using SH
+Using Pre-Solvers
+8.891666666666621% of the budget unused
+Using SH
+Using Pre-Solvers
+8.804166666666621% of the budget unused
+Using SH
+Using Pre-Solvers
+7.142499999999955% of the budget unused
+Using SH
+Using Pre-Solvers
+6.145833333333289% of the budget unused
+Using SH
+Using Pre-Solvers
+6.038333333333288% of the budget unused
+Using SH
+Using Pre-Solvers
+5.547499999999954% of the budget unused
+Using SH
+Using Pre-Solvers
+5.459999999999955% of the budget unused
+Using SH
+Using Pre-Solvers
+3.798333333333288% of the budget unused
+Using SH
+Using Pre-Solvers
+2.8016666666666215% of the budget unused
+Using SH
+Using Pre-Solvers
+2.6941666666666215% of the budget unused
+Using SH
+Using Pre-Solvers
+2.2033333333332883% of the budget unused
+Using SH
+Using Pre-Solvers
+2.1158333333332884% of the budget unused
+Using SH
+Using Pre-Solvers
+0.4541666666666213% of the budget unused
+Using SH
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+92.99583333333335% of the budget unused
+Using SH
+Using Pre-Solvers
+92.84000000000003% of the budget unused
+Using SH
+Using Pre-Solvers
+90.95583333333337% of the budget unused
+Using SH
+Using Pre-Solvers
+90.82083333333338% of the budget unused
+Using SH
+Using Pre-Solvers
+71.71833333333338% of the budget unused
+Using SH
+Using Pre-Solvers
+70.38583333333338% of the budget unused
+Using SH
+Using Pre-Solvers
+70.16750000000005% of the budget unused
+Using SH
+Using Pre-Solvers
+66.42666666666672% of the budget unused
+Using SH
+Using Pre-Solvers
+66.22333333333339% of the budget unused
+Using SH
+Using Pre-Solvers
+14.141666666666708% of the budget unused
+Using SH
+Using Pre-Solvers
+9.594166666666709% of the budget unused
+Using SH
+Using Pre-Solvers
+9.217500000000042% of the budget unused
+Using SH
+Using Pre-Solvers
+1.7808333333333766% of the budget unused
+Using SH
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+27.723333333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+27.213333333333335% of the budget unused
+Using SH
+Using Pre-Solvers
+26.770833333333332% of the budget unused
+Using SH
+Using Pre-Solvers
+26.371666666666663% of the budget unused
+Using SH
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+96.395% of the budget unused
+Using SH
+Using Pre-Solvers
+96.3725% of the budget unused
+Using SH
+Using Pre-Solvers
+96.10666666666667% of the budget unused
+Using SH
+Using Pre-Solvers
+96.08833333333334% of the budget unused
+Using SH
+Using Pre-Solvers
+95.465% of the budget unused
+Using SH
+Using Pre-Solvers
+91.05166666666665% of the budget unused
+Using SH
+Using Pre-Solvers
+91.01416666666665% of the budget unused
+Using SH
+Using Pre-Solvers
+90.50583333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+90.47249999999998% of the budget unused
+Using SH
+Using Pre-Solvers
+88.67916666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+78.79416666666665% of the budget unused
+Using SH
+Using Pre-Solvers
+78.72416666666665% of the budget unused
+Using SH
+Using Pre-Solvers
+77.66333333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+77.5933333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+71.9208333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+56.727499999999985% of the budget unused
+Using SH
+Using Pre-Solvers
+56.580833333333324% of the budget unused
+Using SH
+Using Pre-Solvers
+54.45749999999998% of the budget unused
+Using SH
+Using Pre-Solvers
+48.97083333333332% of the budget unused
+Using SH
+Using Pre-Solvers
+28.049999999999976% of the budget unused
+Using SH
+Using Pre-Solvers
+1.3991666666666447% of the budget unused
+Using SH
+Using Pre-Solvers
+1.209999999999978% of the budget unused
+Using SH
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+78.14999999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+77.93749999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+77.77499999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+77.68583333333332% of the budget unused
+Using SH
+Using Pre-Solvers
+70.22416666666665% of the budget unused
+Using SH
+Using Pre-Solvers
+66.15249999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+65.78499999999998% of the budget unused
+Using SH
+Using Pre-Solvers
+65.49583333333332% of the budget unused
+Using SH
+Using Pre-Solvers
+65.32583333333332% of the budget unused
+Using SH
+Using Pre-Solvers
+45.75916666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+32.04916666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+31.303333333333327% of the budget unused
+Using SH
+Using Pre-Solvers
+30.77916666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+30.393333333333327% of the budget unused
+Using SH
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+95.74833333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+95.69083333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+95.21749999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+95.19416666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+94.13999999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+89.36083333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+89.24916666666667% of the budget unused
+Using SH
+Using Pre-Solvers
+88.275% of the budget unused
+Using SH
+Using Pre-Solvers
+86.68916666666667% of the budget unused
+Using SH
+Using Pre-Solvers
+82.2425% of the budget unused
+Using SH
+Using Pre-Solvers
+72.05333333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+71.82% of the budget unused
+Using SH
+Using Pre-Solvers
+69.81333333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+66.37416666666667% of the budget unused
+Using SH
+Using Pre-Solvers
+52.682500000000005% of the budget unused
+Using SH
+Using Pre-Solvers
+33.106666666666676% of the budget unused
+Using SH
+Using Pre-Solvers
+32.569166666666675% of the budget unused
+Using SH
+Using Pre-Solvers
+28.400000000000006% of the budget unused
+Using SH
+Using Pre-Solvers
+20.99583333333334% of the budget unused
+Using SH
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+96.26666666666667% of the budget unused
+Using SH
+Using Pre-Solvers
+96.03416666666668% of the budget unused
+Using SH
+Using Pre-Solvers
+95.93166666666667% of the budget unused
+Using SH
+Using Pre-Solvers
+95.82500000000002% of the budget unused
+Using SH
+Using Pre-Solvers
+95.75750000000001% of the budget unused
+Using SH
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+99.4625% of the budget unused
+Using SH
+Using Pre-Solvers
+99.44749999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+99.24833333333332% of the budget unused
+Using SH
+Using Pre-Solvers
+99.21999999999998% of the budget unused
+Using SH
+Using Pre-Solvers
+98.83083333333332% of the budget unused
+Using SH
+Using Pre-Solvers
+98.56583333333332% of the budget unused
+Using SH
+Using Pre-Solvers
+98.55833333333332% of the budget unused
+Using SH
+Using Pre-Solvers
+98.28583333333331% of the budget unused
+Using SH
+Using Pre-Solvers
+98.26999999999998% of the budget unused
+Using SH
+Using Pre-Solvers
+97.32916666666665% of the budget unused
+Using SH
+Using Pre-Solvers
+96.86416666666665% of the budget unused
+Using SH
+Using Pre-Solvers
+96.84916666666665% of the budget unused
+Using SH
+Using Pre-Solvers
+96.39749999999998% of the budget unused
+Using SH
+Using Pre-Solvers
+96.36666666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+93.76166666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+92.75666666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+92.72583333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+91.94% of the budget unused
+Using SH
+Using Pre-Solvers
+89.77083333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+82.43916666666667% of the budget unused
+Using SH
+Using Pre-Solvers
+79.9825% of the budget unused
+Using SH
+Using Pre-Solvers
+79.94583333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+78.91416666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+75.8475% of the budget unused
+Using SH
+Using Pre-Solvers
+65.89% of the budget unused
+Using SH
+Using Pre-Solvers
+62.91% of the budget unused
+Using SH
+Using Pre-Solvers
+62.87333333333332% of the budget unused
+Using SH
+Using Pre-Solvers
+61.841666666666654% of the budget unused
+Using SH
+Using Pre-Solvers
+58.775% of the budget unused
+Using SH
+Using Pre-Solvers
+48.817499999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+45.83749999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+45.80083333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+44.76916666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+41.70249999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+31.744999999999987% of the budget unused
+Using SH
+Using Pre-Solvers
+28.764999999999993% of the budget unused
+Using SH
+Using Pre-Solvers
+28.728333333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+27.696666666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+24.629999999999992% of the budget unused
+Using SH
+Using Pre-Solvers
+14.67249999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+11.69249999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+11.655833333333325% of the budget unused
+Using SH
+Using Pre-Solvers
+10.624166666666657% of the budget unused
+Using SH
+Using Pre-Solvers
+7.557499999999991% of the budget unused
+Using SH
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+25.187500000000007% of the budget unused
+Using SH
+Using Pre-Solvers
+24.980000000000004% of the budget unused
+Using SH
+Using Pre-Solvers
+22.920000000000005% of the budget unused
+Using SH
+Using Pre-Solvers
+22.37333333333334% of the budget unused
+Using SH
+Using Pre-Solvers
+20.54833333333334% of the budget unused
+Using SH
+Using Pre-Solvers
+13.744166666666672% of the budget unused
+Using SH
+Using Pre-Solvers
+13.247500000000004% of the budget unused
+Using SH
+Using Pre-Solvers
+8.852500000000004% of the budget unused
+Using SH
+Using Pre-Solvers
+3.7591666666666703% of the budget unused
+Using SH
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+97.20416666666665% of the budget unused
+Using SH
+Using Pre-Solvers
+97.18416666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+97.08999999999997% of the budget unused
+Using SH
+Using Pre-Solvers
+97.07333333333331% of the budget unused
+Using SH
+Using Pre-Solvers
+96.98916666666665% of the budget unused
+Using SH
+Using Pre-Solvers
+96.95166666666663% of the budget unused
+Using SH
+Using Pre-Solvers
+96.92416666666664% of the budget unused
+Using SH
+Using Pre-Solvers
+96.78916666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+96.77249999999998% of the budget unused
+Using SH
+Using Pre-Solvers
+96.6108333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+96.5458333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+96.49749999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+96.26999999999998% of the budget unused
+Using SH
+Using Pre-Solvers
+96.23666666666664% of the budget unused
+Using SH
+Using Pre-Solvers
+95.89166666666664% of the budget unused
+Using SH
+Using Pre-Solvers
+95.6058333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+95.51333333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+95.11499999999998% of the budget unused
+Using SH
+Using Pre-Solvers
+95.0458333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+93.96166666666664% of the budget unused
+Using SH
+Using Pre-Solvers
+93.09416666666664% of the budget unused
+Using SH
+Using Pre-Solvers
+92.98666666666664% of the budget unused
+Using SH
+Using Pre-Solvers
+92.4958333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+92.4083333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+90.74666666666663% of the budget unused
+Using SH
+Using Pre-Solvers
+89.74999999999996% of the budget unused
+Using SH
+Using Pre-Solvers
+89.64249999999997% of the budget unused
+Using SH
+Using Pre-Solvers
+89.15166666666661% of the budget unused
+Using SH
+Using Pre-Solvers
+89.06416666666664% of the budget unused
+Using SH
+Using Pre-Solvers
+87.40249999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+86.40583333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+86.29833333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+85.80749999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+85.71999999999996% of the budget unused
+Using SH
+Using Pre-Solvers
+84.05833333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+83.06166666666661% of the budget unused
+Using SH
+Using Pre-Solvers
+82.95416666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+82.46333333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+82.37583333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+80.71416666666661% of the budget unused
+Using SH
+Using Pre-Solvers
+79.71749999999994% of the budget unused
+Using SH
+Using Pre-Solvers
+79.60999999999996% of the budget unused
+Using SH
+Using Pre-Solvers
+79.11916666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+79.03166666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+77.36999999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+76.37333333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+76.26583333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+75.77499999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+75.68749999999996% of the budget unused
+Using SH
+Using Pre-Solvers
+74.02583333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+73.02916666666661% of the budget unused
+Using SH
+Using Pre-Solvers
+72.92166666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+72.43083333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+72.34333333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+70.68166666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+69.68499999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+69.57749999999996% of the budget unused
+Using SH
+Using Pre-Solvers
+69.08666666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+68.99916666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+67.33749999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+66.34083333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+66.23333333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+65.74249999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+65.65499999999996% of the budget unused
+Using SH
+Using Pre-Solvers
+63.99333333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+62.99666666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+62.88916666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+62.398333333333284% of the budget unused
+Using SH
+Using Pre-Solvers
+62.310833333333285% of the budget unused
+Using SH
+Using Pre-Solvers
+60.649166666666616% of the budget unused
+Using SH
+Using Pre-Solvers
+59.652499999999954% of the budget unused
+Using SH
+Using Pre-Solvers
+59.54499999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+59.05416666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+58.96666666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+57.30499999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+56.30833333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+56.200833333333286% of the budget unused
+Using SH
+Using Pre-Solvers
+55.70999999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+55.62249999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+53.960833333333284% of the budget unused
+Using SH
+Using Pre-Solvers
+52.964166666666614% of the budget unused
+Using SH
+Using Pre-Solvers
+52.85666666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+52.365833333333285% of the budget unused
+Using SH
+Using Pre-Solvers
+52.27833333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+50.61666666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+49.61999999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+49.51249999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+49.02166666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+48.93416666666663% of the budget unused
+Using SH
+Using Pre-Solvers
+47.27249999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+46.27583333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+46.16833333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+45.67749999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+45.58999999999996% of the budget unused
+Using SH
+Using Pre-Solvers
+43.928333333333285% of the budget unused
+Using SH
+Using Pre-Solvers
+42.931666666666615% of the budget unused
+Using SH
+Using Pre-Solvers
+42.82416666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+42.333333333333286% of the budget unused
+Using SH
+Using Pre-Solvers
+42.24583333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+40.58416666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+39.58749999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+39.479999999999954% of the budget unused
+Using SH
+Using Pre-Solvers
+38.98916666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+38.90166666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+37.23999999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+36.24333333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+36.13583333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+35.64499999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+35.557499999999955% of the budget unused
+Using SH
+Using Pre-Solvers
+33.895833333333286% of the budget unused
+Using SH
+Using Pre-Solvers
+32.899166666666616% of the budget unused
+Using SH
+Using Pre-Solvers
+32.79166666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+32.30083333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+32.21333333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+30.55166666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+29.554999999999957% of the budget unused
+Using SH
+Using Pre-Solvers
+29.447499999999952% of the budget unused
+Using SH
+Using Pre-Solvers
+28.956666666666617% of the budget unused
+Using SH
+Using Pre-Solvers
+28.86916666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+27.207499999999953% of the budget unused
+Using SH
+Using Pre-Solvers
+26.210833333333287% of the budget unused
+Using SH
+Using Pre-Solvers
+26.10333333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+25.612499999999955% of the budget unused
+Using SH
+Using Pre-Solvers
+25.524999999999956% of the budget unused
+Using SH
+Using Pre-Solvers
+23.863333333333287% of the budget unused
+Using SH
+Using Pre-Solvers
+22.86666666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+22.759166666666623% of the budget unused
+Using SH
+Using Pre-Solvers
+22.26833333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+22.180833333333286% of the budget unused
+Using SH
+Using Pre-Solvers
+20.51916666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+19.522499999999955% of the budget unused
+Using SH
+Using Pre-Solvers
+19.414999999999953% of the budget unused
+Using SH
+Using Pre-Solvers
+18.924166666666622% of the budget unused
+Using SH
+Using Pre-Solvers
+18.83666666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+17.174999999999955% of the budget unused
+Using SH
+Using Pre-Solvers
+16.17833333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+16.070833333333287% of the budget unused
+Using SH
+Using Pre-Solvers
+15.579999999999954% of the budget unused
+Using SH
+Using Pre-Solvers
+15.492499999999955% of the budget unused
+Using SH
+Using Pre-Solvers
+13.830833333333288% of the budget unused
+Using SH
+Using Pre-Solvers
+12.83416666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+12.72666666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+12.23583333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+12.148333333333287% of the budget unused
+Using SH
+Using Pre-Solvers
+10.486666666666622% of the budget unused
+Using SH
+Using Pre-Solvers
+9.489999999999954% of the budget unused
+Using SH
+Using Pre-Solvers
+9.382499999999954% of the budget unused
+Using SH
+Using Pre-Solvers
+8.891666666666621% of the budget unused
+Using SH
+Using Pre-Solvers
+8.804166666666621% of the budget unused
+Using SH
+Using Pre-Solvers
+7.142499999999955% of the budget unused
+Using SH
+Using Pre-Solvers
+6.145833333333289% of the budget unused
+Using SH
+Using Pre-Solvers
+6.038333333333288% of the budget unused
+Using SH
+Using Pre-Solvers
+5.547499999999954% of the budget unused
+Using SH
+Using Pre-Solvers
+5.459999999999955% of the budget unused
+Using SH
+Using Pre-Solvers
+3.798333333333288% of the budget unused
+Using SH
+Using Pre-Solvers
+2.8016666666666215% of the budget unused
+Using SH
+Using Pre-Solvers
+2.6941666666666215% of the budget unused
+Using SH
+Using Pre-Solvers
+2.2033333333332883% of the budget unused
+Using SH
+Using Pre-Solvers
+2.1158333333332884% of the budget unused
+Using SH
+Using Pre-Solvers
+0.4541666666666213% of the budget unused
+Using SH
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+92.99583333333335% of the budget unused
+Using SH
+Using Pre-Solvers
+92.84000000000003% of the budget unused
+Using SH
+Using Pre-Solvers
+90.95583333333337% of the budget unused
+Using SH
+Using Pre-Solvers
+90.82083333333338% of the budget unused
+Using SH
+Using Pre-Solvers
+71.71833333333338% of the budget unused
+Using SH
+Using Pre-Solvers
+70.38583333333338% of the budget unused
+Using SH
+Using Pre-Solvers
+70.16750000000005% of the budget unused
+Using SH
+Using Pre-Solvers
+66.42666666666672% of the budget unused
+Using SH
+Using Pre-Solvers
+66.22333333333339% of the budget unused
+Using SH
+Using Pre-Solvers
+14.141666666666708% of the budget unused
+Using SH
+Using Pre-Solvers
+9.594166666666709% of the budget unused
+Using SH
+Using Pre-Solvers
+9.217500000000042% of the budget unused
+Using SH
+Using Pre-Solvers
+1.7808333333333766% of the budget unused
+Using SH
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+27.723333333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+27.213333333333335% of the budget unused
+Using SH
+Using Pre-Solvers
+26.770833333333332% of the budget unused
+Using SH
+Using Pre-Solvers
+26.371666666666663% of the budget unused
+Using SH
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+96.395% of the budget unused
+Using SH
+Using Pre-Solvers
+96.3725% of the budget unused
+Using SH
+Using Pre-Solvers
+96.10666666666667% of the budget unused
+Using SH
+Using Pre-Solvers
+96.08833333333334% of the budget unused
+Using SH
+Using Pre-Solvers
+95.465% of the budget unused
+Using SH
+Using Pre-Solvers
+91.05166666666665% of the budget unused
+Using SH
+Using Pre-Solvers
+91.01416666666665% of the budget unused
+Using SH
+Using Pre-Solvers
+90.50583333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+90.47249999999998% of the budget unused
+Using SH
+Using Pre-Solvers
+88.67916666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+78.79416666666665% of the budget unused
+Using SH
+Using Pre-Solvers
+78.72416666666665% of the budget unused
+Using SH
+Using Pre-Solvers
+77.66333333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+77.5933333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+71.9208333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+56.727499999999985% of the budget unused
+Using SH
+Using Pre-Solvers
+56.580833333333324% of the budget unused
+Using SH
+Using Pre-Solvers
+54.45749999999998% of the budget unused
+Using SH
+Using Pre-Solvers
+48.97083333333332% of the budget unused
+Using SH
+Using Pre-Solvers
+28.049999999999976% of the budget unused
+Using SH
+Using Pre-Solvers
+1.3991666666666447% of the budget unused
+Using SH
+Using Pre-Solvers
+1.209999999999978% of the budget unused
+Using SH
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+78.14999999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+77.93749999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+77.77499999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+77.68583333333332% of the budget unused
+Using SH
+Using Pre-Solvers
+70.22416666666665% of the budget unused
+Using SH
+Using Pre-Solvers
+66.15249999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+65.78499999999998% of the budget unused
+Using SH
+Using Pre-Solvers
+65.49583333333332% of the budget unused
+Using SH
+Using Pre-Solvers
+65.32583333333332% of the budget unused
+Using SH
+Using Pre-Solvers
+45.75916666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+32.04916666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+31.303333333333327% of the budget unused
+Using SH
+Using Pre-Solvers
+30.77916666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+30.393333333333327% of the budget unused
+Using SH
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+95.74833333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+95.69083333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+95.21749999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+95.19416666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+94.13999999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+89.36083333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+89.24916666666667% of the budget unused
+Using SH
+Using Pre-Solvers
+88.275% of the budget unused
+Using SH
+Using Pre-Solvers
+86.68916666666667% of the budget unused
+Using SH
+Using Pre-Solvers
+82.2425% of the budget unused
+Using SH
+Using Pre-Solvers
+72.05333333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+71.82% of the budget unused
+Using SH
+Using Pre-Solvers
+69.81333333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+66.37416666666667% of the budget unused
+Using SH
+Using Pre-Solvers
+52.682500000000005% of the budget unused
+Using SH
+Using Pre-Solvers
+33.106666666666676% of the budget unused
+Using SH
+Using Pre-Solvers
+32.569166666666675% of the budget unused
+Using SH
+Using Pre-Solvers
+28.400000000000006% of the budget unused
+Using SH
+Using Pre-Solvers
+20.99583333333334% of the budget unused
+Using SH
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+96.26666666666667% of the budget unused
+Using SH
+Using Pre-Solvers
+96.03416666666668% of the budget unused
+Using SH
+Using Pre-Solvers
+95.93166666666667% of the budget unused
+Using SH
+Using Pre-Solvers
+95.82500000000002% of the budget unused
+Using SH
+Using Pre-Solvers
+95.75750000000001% of the budget unused
+Using SH
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+99.4625% of the budget unused
+Using SH
+Using Pre-Solvers
+99.44749999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+99.24833333333332% of the budget unused
+Using SH
+Using Pre-Solvers
+99.21999999999998% of the budget unused
+Using SH
+Using Pre-Solvers
+98.83083333333332% of the budget unused
+Using SH
+Using Pre-Solvers
+98.56583333333332% of the budget unused
+Using SH
+Using Pre-Solvers
+98.55833333333332% of the budget unused
+Using SH
+Using Pre-Solvers
+98.28583333333331% of the budget unused
+Using SH
+Using Pre-Solvers
+98.26999999999998% of the budget unused
+Using SH
+Using Pre-Solvers
+97.32916666666665% of the budget unused
+Using SH
+Using Pre-Solvers
+96.86416666666665% of the budget unused
+Using SH
+Using Pre-Solvers
+96.84916666666665% of the budget unused
+Using SH
+Using Pre-Solvers
+96.39749999999998% of the budget unused
+Using SH
+Using Pre-Solvers
+96.36666666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+93.76166666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+92.75666666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+92.72583333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+91.94% of the budget unused
+Using SH
+Using Pre-Solvers
+89.77083333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+82.43916666666667% of the budget unused
+Using SH
+Using Pre-Solvers
+79.9825% of the budget unused
+Using SH
+Using Pre-Solvers
+79.94583333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+78.91416666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+75.8475% of the budget unused
+Using SH
+Using Pre-Solvers
+65.89% of the budget unused
+Using SH
+Using Pre-Solvers
+62.91% of the budget unused
+Using SH
+Using Pre-Solvers
+62.87333333333332% of the budget unused
+Using SH
+Using Pre-Solvers
+61.841666666666654% of the budget unused
+Using SH
+Using Pre-Solvers
+58.775% of the budget unused
+Using SH
+Using Pre-Solvers
+48.817499999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+45.83749999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+45.80083333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+44.76916666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+41.70249999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+31.744999999999987% of the budget unused
+Using SH
+Using Pre-Solvers
+28.764999999999993% of the budget unused
+Using SH
+Using Pre-Solvers
+28.728333333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+27.696666666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+24.629999999999992% of the budget unused
+Using SH
+Using Pre-Solvers
+14.67249999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+11.69249999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+11.655833333333325% of the budget unused
+Using SH
+Using Pre-Solvers
+10.624166666666657% of the budget unused
+Using SH
+Using Pre-Solvers
+7.557499999999991% of the budget unused
+Using SH
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+25.187500000000007% of the budget unused
+Using SH
+Using Pre-Solvers
+24.980000000000004% of the budget unused
+Using SH
+Using Pre-Solvers
+22.920000000000005% of the budget unused
+Using SH
+Using Pre-Solvers
+22.37333333333334% of the budget unused
+Using SH
+Using Pre-Solvers
+20.54833333333334% of the budget unused
+Using SH
+Using Pre-Solvers
+13.744166666666672% of the budget unused
+Using SH
+Using Pre-Solvers
+13.247500000000004% of the budget unused
+Using SH
+Using Pre-Solvers
+8.852500000000004% of the budget unused
+Using SH
+Using Pre-Solvers
+3.7591666666666703% of the budget unused
+Using SH
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+97.20416666666665% of the budget unused
+Using SH
+Using Pre-Solvers
+97.18416666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+97.08999999999997% of the budget unused
+Using SH
+Using Pre-Solvers
+97.07333333333331% of the budget unused
+Using SH
+Using Pre-Solvers
+96.98916666666665% of the budget unused
+Using SH
+Using Pre-Solvers
+96.95166666666663% of the budget unused
+Using SH
+Using Pre-Solvers
+96.92416666666664% of the budget unused
+Using SH
+Using Pre-Solvers
+96.78916666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+96.77249999999998% of the budget unused
+Using SH
+Using Pre-Solvers
+96.6108333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+96.5458333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+96.49749999999999% of the budget unused
+Using SH
+Using Pre-Solvers
+96.26999999999998% of the budget unused
+Using SH
+Using Pre-Solvers
+96.23666666666664% of the budget unused
+Using SH
+Using Pre-Solvers
+95.89166666666664% of the budget unused
+Using SH
+Using Pre-Solvers
+95.6058333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+95.51333333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+95.11499999999998% of the budget unused
+Using SH
+Using Pre-Solvers
+95.0458333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+93.96166666666664% of the budget unused
+Using SH
+Using Pre-Solvers
+93.09416666666664% of the budget unused
+Using SH
+Using Pre-Solvers
+92.98666666666664% of the budget unused
+Using SH
+Using Pre-Solvers
+92.4958333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+92.4083333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+90.74666666666663% of the budget unused
+Using SH
+Using Pre-Solvers
+89.74999999999996% of the budget unused
+Using SH
+Using Pre-Solvers
+89.64249999999997% of the budget unused
+Using SH
+Using Pre-Solvers
+89.15166666666661% of the budget unused
+Using SH
+Using Pre-Solvers
+89.06416666666664% of the budget unused
+Using SH
+Using Pre-Solvers
+87.40249999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+86.40583333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+86.29833333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+85.80749999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+85.71999999999996% of the budget unused
+Using SH
+Using Pre-Solvers
+84.05833333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+83.06166666666661% of the budget unused
+Using SH
+Using Pre-Solvers
+82.95416666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+82.46333333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+82.37583333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+80.71416666666661% of the budget unused
+Using SH
+Using Pre-Solvers
+79.71749999999994% of the budget unused
+Using SH
+Using Pre-Solvers
+79.60999999999996% of the budget unused
+Using SH
+Using Pre-Solvers
+79.11916666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+79.03166666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+77.36999999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+76.37333333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+76.26583333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+75.77499999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+75.68749999999996% of the budget unused
+Using SH
+Using Pre-Solvers
+74.02583333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+73.02916666666661% of the budget unused
+Using SH
+Using Pre-Solvers
+72.92166666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+72.43083333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+72.34333333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+70.68166666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+69.68499999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+69.57749999999996% of the budget unused
+Using SH
+Using Pre-Solvers
+69.08666666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+68.99916666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+67.33749999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+66.34083333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+66.23333333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+65.74249999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+65.65499999999996% of the budget unused
+Using SH
+Using Pre-Solvers
+63.99333333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+62.99666666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+62.88916666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+62.398333333333284% of the budget unused
+Using SH
+Using Pre-Solvers
+62.310833333333285% of the budget unused
+Using SH
+Using Pre-Solvers
+60.649166666666616% of the budget unused
+Using SH
+Using Pre-Solvers
+59.652499999999954% of the budget unused
+Using SH
+Using Pre-Solvers
+59.54499999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+59.05416666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+58.96666666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+57.30499999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+56.30833333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+56.200833333333286% of the budget unused
+Using SH
+Using Pre-Solvers
+55.70999999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+55.62249999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+53.960833333333284% of the budget unused
+Using SH
+Using Pre-Solvers
+52.964166666666614% of the budget unused
+Using SH
+Using Pre-Solvers
+52.85666666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+52.365833333333285% of the budget unused
+Using SH
+Using Pre-Solvers
+52.27833333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+50.61666666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+49.61999999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+49.51249999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+49.02166666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+48.93416666666663% of the budget unused
+Using SH
+Using Pre-Solvers
+47.27249999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+46.27583333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+46.16833333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+45.67749999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+45.58999999999996% of the budget unused
+Using SH
+Using Pre-Solvers
+43.928333333333285% of the budget unused
+Using SH
+Using Pre-Solvers
+42.931666666666615% of the budget unused
+Using SH
+Using Pre-Solvers
+42.82416666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+42.333333333333286% of the budget unused
+Using SH
+Using Pre-Solvers
+42.24583333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+40.58416666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+39.58749999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+39.479999999999954% of the budget unused
+Using SH
+Using Pre-Solvers
+38.98916666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+38.90166666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+37.23999999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+36.24333333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+36.13583333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+35.64499999999995% of the budget unused
+Using SH
+Using Pre-Solvers
+35.557499999999955% of the budget unused
+Using SH
+Using Pre-Solvers
+33.895833333333286% of the budget unused
+Using SH
+Using Pre-Solvers
+32.899166666666616% of the budget unused
+Using SH
+Using Pre-Solvers
+32.79166666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+32.30083333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+32.21333333333328% of the budget unused
+Using SH
+Using Pre-Solvers
+30.55166666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+29.554999999999957% of the budget unused
+Using SH
+Using Pre-Solvers
+29.447499999999952% of the budget unused
+Using SH
+Using Pre-Solvers
+28.956666666666617% of the budget unused
+Using SH
+Using Pre-Solvers
+28.86916666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+27.207499999999953% of the budget unused
+Using SH
+Using Pre-Solvers
+26.210833333333287% of the budget unused
+Using SH
+Using Pre-Solvers
+26.10333333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+25.612499999999955% of the budget unused
+Using SH
+Using Pre-Solvers
+25.524999999999956% of the budget unused
+Using SH
+Using Pre-Solvers
+23.863333333333287% of the budget unused
+Using SH
+Using Pre-Solvers
+22.86666666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+22.759166666666623% of the budget unused
+Using SH
+Using Pre-Solvers
+22.26833333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+22.180833333333286% of the budget unused
+Using SH
+Using Pre-Solvers
+20.51916666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+19.522499999999955% of the budget unused
+Using SH
+Using Pre-Solvers
+19.414999999999953% of the budget unused
+Using SH
+Using Pre-Solvers
+18.924166666666622% of the budget unused
+Using SH
+Using Pre-Solvers
+18.83666666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+17.174999999999955% of the budget unused
+Using SH
+Using Pre-Solvers
+16.17833333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+16.070833333333287% of the budget unused
+Using SH
+Using Pre-Solvers
+15.579999999999954% of the budget unused
+Using SH
+Using Pre-Solvers
+15.492499999999955% of the budget unused
+Using SH
+Using Pre-Solvers
+13.830833333333288% of the budget unused
+Using SH
+Using Pre-Solvers
+12.83416666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+12.72666666666662% of the budget unused
+Using SH
+Using Pre-Solvers
+12.23583333333329% of the budget unused
+Using SH
+Using Pre-Solvers
+12.148333333333287% of the budget unused
+Using SH
+Using Pre-Solvers
+10.486666666666622% of the budget unused
+Using SH
+Using Pre-Solvers
+9.489999999999954% of the budget unused
+Using SH
+Using Pre-Solvers
+9.382499999999954% of the budget unused
+Using SH
+Using Pre-Solvers
+8.891666666666621% of the budget unused
+Using SH
+Using Pre-Solvers
+8.804166666666621% of the budget unused
+Using SH
+Using Pre-Solvers
+7.142499999999955% of the budget unused
+Using SH
+Using Pre-Solvers
+6.145833333333289% of the budget unused
+Using SH
+Using Pre-Solvers
+6.038333333333288% of the budget unused
+Using SH
+Using Pre-Solvers
+5.547499999999954% of the budget unused
+Using SH
+Using Pre-Solvers
+5.459999999999955% of the budget unused
+Using SH
+Using Pre-Solvers
+3.798333333333288% of the budget unused
+Using SH
+Using Pre-Solvers
+2.8016666666666215% of the budget unused
+Using SH
+Using Pre-Solvers
+2.6941666666666215% of the budget unused
+Using SH
+Using Pre-Solvers
+2.2033333333332883% of the budget unused
+Using SH
+Using Pre-Solvers
+2.1158333333332884% of the budget unused
+Using SH
+Using Pre-Solvers
+0.4541666666666213% of the budget unused
+Using SH
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+92.99583333333335% of the budget unused
+Using SH
+Using Pre-Solvers
+92.84000000000003% of the budget unused
+Using SH
+Using Pre-Solvers
+90.95583333333337% of the budget unused
+Using SH
+Using Pre-Solvers
+90.82083333333338% of the budget unused
+Using SH
+Using Pre-Solvers
+71.71833333333338% of the budget unused
+Using SH
+Using Pre-Solvers
+70.38583333333338% of the budget unused
+Using SH
+Using Pre-Solvers
+70.16750000000005% of the budget unused
+Using SH
+Using Pre-Solvers
+66.42666666666672% of the budget unused
+Using SH
+Using Pre-Solvers
+66.22333333333339% of the budget unused
+Using SH
+Using Pre-Solvers
+14.141666666666708% of the budget unused
+Using SH
+Using Pre-Solvers
+9.594166666666709% of the budget unused
+Using SH
+Using Pre-Solvers
+9.217500000000042% of the budget unused
+Using SH
+Using Pre-Solvers
+1.7808333333333766% of the budget unused
+Using SH
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+27.723333333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+27.213333333333335% of the budget unused
+Using SH
+Using Pre-Solvers
+26.770833333333332% of the budget unused
+Using SH
+Using Pre-Solvers
+26.371666666666663% of the budget unused
+Using SH
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+[4, 5, 7, 13, 23]
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+Using Pre-Solvers
+96.395% of the budget unused
+Using SH
+Using Pre-Solvers
+96.3725% of the budget unused
+Using SH
+Using Pre-Solvers
+96.10666666666667% of the budget unused
+Using SH
+Using Pre-Solvers
+96.08833333333334% of the budget unused
+Using SH
+Using Pre-Solvers
+95.465% of the budget unused
+Using SH
+Using Pre-Solvers
+91.05166666666665% of the budget unused
+Using SH
+Using Pre-Solvers
+91.01416666666665% of the budget unused
+Using SH
+Using Pre-Solvers
+90.50583333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+90.47249999999998% of the budget unused
+Using SH
+Using Pre-Solvers
+88.67916666666666% of the budget unused
+Using SH
+Using Pre-Solvers
+78.79416666666665% of the budget unused
+Using SH
+Using Pre-Solvers
+78.72416666666665% of the budget unused
+Using SH
+Using Pre-Solvers
+77.66333333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+77.5933333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+71.9208333333333% of the budget unused
+Using SH
+Using Pre-Solvers
+56.727499999999985% of the budget unused
+Using SH
+Using Pre-Solvers
+56.580833333333324% of the budget unused
+Using SH
+Using Pre-Solvers
+54.45749999999998% of the budget unused
+Using SH
+Using Pre-Solvers
+48.97083333333332% of the budget unused
+Using SH
+Using Pre-Solvers
+28.049999999999976% of the budget unused
+Using SH
+Using Pre-Solvers
+1.3991666666666447% of the budget unused
+Using SH
+Using Pre-Solvers
+1.209999999999978% of the budget unused
+Using SH

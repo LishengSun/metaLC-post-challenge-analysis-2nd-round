@@ -1,0 +1,25 @@
+<h2 style="text-align: center;"><strong>Meta-learning from Learning Curves</strong></h2>
+<h2 style="text-align: center;"><span style="color: #339966;"><strong>2nd Round</strong></span></h2>
+<p><strong>Meta-learning</strong><span style="font-weight: 400;"> has been playing an increasingly important role in Automated Machine Learning. While it is a natural capability of living organisms, who constantly transfer acquired knowledge across tasks, to quickly adapt to changing environments, artificial learning systems are still in their meta-learning &ldquo;infancy&rdquo;. They are only capable, so far, to transfer knowledge between very similar tasks. At a time when society is pointing fingers at AI for being wasteful with computational resources, there is an urgent need for learning systems, which recycle their knowledge.&nbsp;</span></p>
+<p><span style="font-weight: 400;">The main goal of the competition is to push the state-of-the-art in meta-learning from learning curves, an important sub-problem in meta-learning. This competition will be the </span><strong>second round</strong><span style="font-weight: 400;"> of the </span><strong>Meta-learning from learning curves competition</strong><span style="font-weight: 400;"> that was an accepted competition at the WCCI 2022. The first round can be found here: </span><a href="../753"><span style="font-weight: 400;">https://codalab.lisn.upsaclay.fr/competitions/753</span></a><span style="font-weight: 400;">. The second round comes with some new features, including:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="text-decoration: underline;"><span style="font-weight: 400;">Learning curve</span></span><span style="font-weight: 400;">: we focus on learning curves as </span><strong>functions of training data size </strong>(Figure 1)<span style="font-weight: 400;">. We thus collected a new large meta-dataset of such learning curves. (see more on the &lsquo;Get Data&rsquo; tab)</span></li>
+<li style="font-weight: 400;"><span style="text-decoration: underline;"><span style="font-weight: 400;">Competition protocol</span></span><span style="font-weight: 400;">: Given a portfolio of algorithms, an agent suggests </span><strong>which algorithm</strong><span style="font-weight: 400;"> and the </span><strong>amount of training data</strong><span style="font-weight: 400;"> to evaluate the algorithm on a new task (dataset) efficiently. The agent observes information on both the </span><strong>training learning curve</strong><span style="font-weight: 400;"> and</span><strong> validation learning curve </strong><span style="font-weight: 400;">to plan for the next step. Test learning curves, which are kept hidden, will be used for evaluating the agent. (see more on the &lsquo;&lsquo;Evaluation&rsquo;&rsquo; tab)</span></li>
+<li style="font-weight: 400;"><span style="text-decoration: underline;"><span style="font-weight: 400;">Data split</span></span><span style="font-weight: 400;">: We use half of the meta-dataset for the Development phase and the other </span><strong>&ldquo;fresh&rdquo; half to evaluate the agent</strong><span style="font-weight: 400;"> in the Final phase. (see more on the &lsquo;Get Data&rsquo; tab).</span></li>
+</ul>
+<p><span style="font-weight: 400;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.ibb.co/qNFLV5q/lc-as-function-of-training-size.png" alt="" width="400" height="300" /></span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Figure 1. Learning curve as a function of the training data size.</span></p>
+<p><strong>COMPETITION PHASES</strong></p>
+<p><span style="font-weight: 400;">We organize a three-phase competition protocol:</span></p>
+<ul>
+<li style="font-weight: 400;"><strong>Public phase (1 week)</strong><span style="font-weight: 400;">: participants practice with the given starting kit and sample data</span></li>
+<li style="font-weight: 400;"><strong>Development phase (6 weeks)</strong><span style="font-weight: 400;">: participants submit agents that are meta-trained and meta-tested on the platform. 15 datasets will be used in this phase. The Area under the Learning Curve (ALC) of the agent (computed using test scores) will be used for ranking on the leaderboard.</span></li>
+<li style="font-weight: 400;"><strong>Final phase (1 week)</strong><span style="font-weight: 400;">: no further submissions are made in this phase. Your last submission in the Development phase will be forwarded automatically to this phase and evaluated on 15 fresh datasets (not used in the Development phase). The Area under the Learning Curve (ALC) of the agent (computed using test scores) will be used for ranking on the leaderboard.</span></li>
+</ul>
+<p><span style="font-weight: 400;">For more information, please click on the 'Phases' tab.</span></p>
+<p><strong>IMPORTANT DATES</strong></p>
+<p>Start of the Competition (PUBLIC phase): May 16, 2022</p>
+<p>Start of the DEVELOPMENT phase: May 23, 2022</p>
+<p>Start of the FINAL phase: July 4, 2022</p>
+<p>End of the competition: July 11, 2022</p>
+<p>Result announcement: July 25, 2022 (at the AutoML-Conf 2022)&nbsp;</p>

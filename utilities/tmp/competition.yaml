@@ -1,0 +1,64 @@
+title: Meta-learning from Learning Curves - 2ND ROUND
+description: AutoML-Conf 2022 Competition on Meta-learning from Learning Curves
+start_date: 2022-05-01 00:00:00+00:00
+end_date: 2022-07-13 00:00:00+00:00
+competition_docker_image: didayolo/lc-challenge
+image: logo.png
+has_registration: false
+force_submission_to_leaderboard: true
+disallow_leaderboard_modifying: true
+enable_detailed_results: true
+admin_names: guyon,lisheng,pavao,Ngrin
+html:
+  data: data.html
+  evaluation: evaluation.html
+  get_starting_kit: get_starting_kit.html
+  overview: overview.html
+  terms: terms.html
+phases:
+  0:
+    auto_migration: false
+    color: green
+    description: Participants can make many submissions. The agent will be evaluated using the test learning curves on 15/30 datasets.
+    ingestion_program: ingestion_program.zip
+    input_data: input_data.zip
+    is_scoring_only: false
+    label: Development
+    max_submissions: 100
+    max_submissions_per_day: 5
+    phasenumber: 1
+    public_data: sample_data.zip
+    reference_data: reference_data.zip
+    scoring_program: scoring_program.zip
+    start_date: 2022-05-01 00:00:00+00:00
+    starting_kit: starting_kit.zip
+  1:
+    auto_migration: true
+    color: purple
+    description: The last submission in the Development phase will be forwarded automatically to this phase. The agent will be evaluated using the test learning curves on 15 fresh datasets.
+    ingestion_program: ingestion_program.zip
+    input_data: input_data.zip
+    is_scoring_only: false
+    label: Final
+    max_submissions: 100
+    max_submissions_per_day: 5
+    phasenumber: 2
+    reference_data: reference_data.zip
+    scoring_program: scoring_program.zip
+    start_date: 2022-07-08 00:00:00+00:00
+leaderboard:
+  columns:
+    average_ALC:
+      label: Average ALC
+      leaderboard: &id001
+        label: Average Final Score
+        rank: 1
+      rank: 1
+      sort: desc
+    average_final_score:
+      label: Average Final Score
+      leaderboard: *id001
+      rank: 2
+      sort: desc
+  leaderboards:
+    Results: *id001

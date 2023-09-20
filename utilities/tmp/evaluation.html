@@ -1,0 +1,27 @@
+<h2 style="text-align: center;"><strong>Evaluation</strong></h2>
+<p><span style="font-weight: 400;">In each phase, learning curves of algorithms on 15 datasets are provided. Submitted agents are meta-trained and meta-tested on these using the k-folds meta-cross-validation procedure with k=5 (e.g. 12 datasets for meta-training and 3 datasets for meta-testing).&nbsp;</span></p>
+<p><span style="font-weight: 400;">In </span><strong>META-TRAINING</strong><span style="font-weight: 400;">, the following data is given to the agent to meta-learn in any possible way:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">meta-features of datasets</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">hyperparameters of algorithms</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">training learning curves</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">validation learning curves</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Test learning curves</span></li>
+</ul>
+<p><span style="font-weight: 400;">In</span><strong> META-TESTING</strong><span style="font-weight: 400;">, the agent iteratively interacts with an environment in a Reinforcement Learning style. Given a portfolio of algorithms, an agent suggests which algorithm and the amount of training data to evaluate the algorithm on a new task (dataset) efficiently. The agent observes information on both the training learning curve and validation learning curve to plan for the next step. An episode ends when the given time budget is exhausted.</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">action = trained_agent.suggest(observation)</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">observation, done = env.reveal(action)</span></p>
+<p><strong>observation</strong><span style="font-weight: 400;"> : tuple of (A, p, t, R_train_A_p, R_validation_A_p)</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><strong>A</strong><span style="font-weight: 400;">: index of the algorithm provided in the previous action,</span></li>
+<li style="font-weight: 400;" aria-level="1"><strong>p</strong><span style="font-weight: 400;">: decimal fraction of training data used, with the value of p in [0.1, 0.2, 0.3, ..., 1.0]</span></li>
+<li style="font-weight: 400;" aria-level="1"><strong>t</strong><span style="font-weight: 400;">: the amount of time it took to train A with training data size of p, and make predictions on the training/validation/test sets.</span></li>
+<li style="font-weight: 400;" aria-level="1"><strong>R_train_A_p</strong><span style="font-weight: 400;">: performance score on the training set</span></li>
+<li style="font-weight: 400;" aria-level="1"><strong>R_validation_A_p</strong><span style="font-weight: 400;">: performance score on the validation set</span></li>
+</ul>
+<p><strong>action</strong><span style="font-weight: 400;">: tuple of (A, p)</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><strong>A</strong><span style="font-weight: 400;">: index of the algorithm to be trained and tested</span></li>
+<li style="font-weight: 400;" aria-level="1"><strong>p</strong><span style="font-weight: 400;">: decimal fraction of training data used, with the value of p in [0.1, 0.2, 0.3, ..., 1.0]</span></li>
+</ul>
+<p><span style="font-weight: 400;">The scoring program computes the agent&rsquo;s learning curve (as a function of time) from the best test score found at each time step and the amount of time spent by the agent. The score used for ranking on the leaderboard is the </span><strong>Area under the Learning Curve (ALC).</strong></p>
