@@ -1,6 +1,6 @@
 ## Algorithms' learning curves with final rankings
 
-In this folder, we provide insights into how ranking of algorithms change w.r.t. the training data size (see an example in Figure 1). Algorithms are color-coded based on their final ranking. It can be seen that a group of algorithms represented in dark blue dominates throughout the learning curve.  In other words, algorithm that ranked first initially tends to maintain a very high rank by the end of the process across most datasets. In such cases, BOS baseline can be more efficient compared to DDQN because it can achieve comparable/better performances while being easier to implement.
+In this folder, we provide insights into how algorithm rankings shift w.r.t. the training data size (see an example in Figure 1). This pertains to datasets where certain algorithm groups consistently outperform others in the learning curve. Algorithms are color-coded based on their final ranking. It can be seen that a group of algorithms represented in dark blue dominates throughout the entire learning curve. In other words, these algorithms that initially secures the top rank tends to maintain a remarkably high rank by the end of the process across most datasets. In such cases, BOS baseline can be more efficient compared to DDQN, as it can achieve comparable/better performances while being easier to implement.
 
 
 ![Fig 1](flora.svg)
